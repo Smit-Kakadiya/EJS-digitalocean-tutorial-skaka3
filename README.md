@@ -7,7 +7,7 @@
     > Configure server.js file
     > Create EJS files
     > Add EJS files to View section
-    > Paas the data to view section
+    > Paas the data to View section
 
 ## Author
 - [Smit Kakadiya] (https://smit-kakadiya.github.io)
