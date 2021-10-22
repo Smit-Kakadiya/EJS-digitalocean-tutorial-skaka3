@@ -3,11 +3,11 @@
 - In this repository, I learned EJS (Embeded JavaScript Templating) and implemented with my Node Application.
 - I have gone through Digital Ocean website in order to implement this javascript.
 - Five major steps need to follow for running EJS into node application.
-    > Setup the project
-    > Configure server.js file
-    > Create EJS files
-    > Add EJS files to View section
-    > Paas the data to View section
+    > Setup the project, 
+    > Configure server.js file, 
+    > Create EJS files, 
+    > Add EJS files to View section, 
+    > Paas the data to View section.
 
 ## Author
 - [Smit Kakadiya] (https://smit-kakadiya.github.io)
